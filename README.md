@@ -93,7 +93,8 @@ Assess the implementation of personalized features and user engagement functiona
 ![NewPage2](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/b6a4eec7-c0c2-476e-997e-f49fed7a0ba4)
 
 # Daily UPDates - Top Technology Headlines
-https://user-images.githubusercontent.com/118076036/282268286-cc31f679-6f7e-446f-8f1a-6b3853102570.png
+![NewsPage3](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/33b34593-7685-4d2f-b403-57758ac69c46)
+
 
 # Daily UPDates - Top Entertainment Headlines
 ![NewPage2](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/cc31f679-6f7e-446f-8f1a-6b3853102570)
