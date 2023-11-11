@@ -97,7 +97,8 @@ Assess the implementation of personalized features and user engagement functiona
 
 
 # Daily UPDates - Top Entertainment Headlines
-![NewPage2](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/cc31f679-6f7e-446f-8f1a-6b3853102570)
+![NewsPage2](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/0309ad02-954b-4424-be59-70030e3dcb8b)
+
 
 # Conclusion:
 DailyUpdates is designed to be a modern and engaging web-based news application. This project allows students to showcase their skills in React.js development, JavaScript, and web application design. It provides hands-on experience in building a dynamic and responsive user interface for a real-world application.
