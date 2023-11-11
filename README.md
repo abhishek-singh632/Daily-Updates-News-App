@@ -74,18 +74,21 @@ Final Project Submission:
 Fully functional ReactNewsHub web application with all specified features.
 # User Documentation:
 Provide user guides and documentation for navigating the application.
+
 # Evaluation Criteria
-# Functionality:
+
+**Functionality:**
 Ensure all key features are implemented and working as intended.
 
-# User Experience:
+**User Experience:**
 Evaluate the application's user interface, responsiveness, and overall user experience.
 
-# Code Quality:
+**Code Quality:**
 Review the codebase for clean code, proper organization, and adherence to best practices.
 
-# Innovation:
+**Innovation:**
 Assess the implementation of personalized features and user engagement functionalities.
+
 # Daily UPDates - Top Entertainment Headlines
 ![NewsPage2](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/0c2b770e-947f-4b7b-ab94-eaf3effb6400)
 
