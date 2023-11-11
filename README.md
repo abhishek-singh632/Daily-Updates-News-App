@@ -90,11 +90,10 @@ Review the codebase for clean code, proper organization, and adherence to best p
 Assess the implementation of personalized features and user engagement functionalities.
 
 # Daily UPDates - Top Entertainment Headlines
-![Uploading NewPage2.png…]()
-
+![NewPage2](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/b6a4eec7-c0c2-476e-997e-f49fed7a0ba4)
 
 # Daily UPDates - Top Technology Headlines
-![NewsPage3](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/7cfdcd59-1456-4d7d-9c2d-6a27cd7b51d1)
+https://user-images.githubusercontent.com/118076036/282268286-cc31f679-6f7e-446f-8f1a-6b3853102570.png
 
 # Daily UPDates - Top Entertainment Headlines
 ![NewPage2](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/cc31f679-6f7e-446f-8f1a-6b3853102570)
