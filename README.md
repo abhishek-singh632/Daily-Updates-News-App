@@ -1,5 +1,5 @@
 # Project Title: DailyUpdates - Your Dynamic News Platform
-reating a News Application using web development technologies like React.js, JavaScript, and other related tools can be an excellent project. Below is a detailed project description for a web-based News Application.
+Creating a News Application using web development technologies like React.js, JavaScript, and other related tools can be an excellent project. Below is a detailed project description for a web-based News Application.
 # Project Overview:
 # Objective:
 ReactNewsHub is a web-based news application developed using React.js and JavaScript. The aim is to provide users with a responsive and interactive platform to read, customize, and engage with news content. The application will leverage modern web development tools to ensure a seamless user experience.
