@@ -68,8 +68,8 @@ Detailed overview of the project, features, and technologies used.
 Wireframes and Design Mockups:
 Visual representation of the application's interface and user flow.
 # Progress Reports:
-Regular updates on development progress, challenges, and resolutions.
-Final Project Submission:
+Regular updates on development progress, challenges, and resolutions.<br>
+**Final Project Submission:**
 Fully functional ReactNewsHub web application with all specified features.
 # User Documentation:
 Provide user guides and documentation for navigating the application.
