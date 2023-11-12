@@ -16,26 +16,26 @@ Allow users to create accounts and log in.
 Personalized news feed based on user preferences and reading history.
 **Article Details:**
 Individual pages for each article with detailed information.
-Support for multimedia content (images, videos).
+Support for multimedia content (images, videos).<br>
 **Search and Filters:**
 Implement a search bar for users to find specific articles.
-Filter news by category, date, and relevance.
+Filter news by category, date, and relevance.<br>
 **Responsive Design:**
-Ensure a responsive layout for seamless user experience across devices (desktop, tablet, mobile).
+Ensure a responsive layout for seamless user experience across devices (desktop, tablet, mobile).<br>
 **Bookmarking:**
-Allow users to bookmark and save articles for later reading.
-Implement a user-friendly bookmark management system.
+Allow users to bookmark and save articles for later reading.<br>
+Implement a user-friendly bookmark management system.<br>
 **Comments and Discussions:**
 
 Enable users to comment on articles and engage in discussions.
-Moderation features for managing user comments.
+Moderation features for managing user comments.<br>
 **API Integration:**
 Integrate with a reliable news API for fetching real-time news data.
-Ensure proper handling of API requests and responses.
+Ensure proper handling of API requests and responses.<br>
 **Authentication with Social Media:**
-Optional integration to allow users to sign in with their social media accounts.
+Optional integration to allow users to sign in with their social media accounts.<br>
 **Dark Mode:**
-Implement a dark mode for improved readability, especially during night-time usage.
+Implement a dark mode for improved readability, especially during night-time usage.<br>
 
 # Technical Requirements:
 **Frontend:**
