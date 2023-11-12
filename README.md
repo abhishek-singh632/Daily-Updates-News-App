@@ -13,7 +13,7 @@ Categorize news by topics such as Politics, Technology, Sports, and Entertainmen
 
 # User Authentication:
 Allow users to create accounts and log in.
-Personalized news feed based on user preferences and reading history.
+Personalized news feed based on user preferences and reading history.<br>
 **Article Details:**
 Individual pages for each article with detailed information.
 Support for multimedia content (images, videos).<br>
