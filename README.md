@@ -26,7 +26,6 @@ Ensure a responsive layout for seamless user experience across devices (desktop,
 Allow users to bookmark and save articles for later reading.<br>
 Implement a user-friendly bookmark management system.<br>
 **Comments and Discussions:**
-
 Enable users to comment on articles and engage in discussions.
 Moderation features for managing user comments.<br>
 **API Integration:**
